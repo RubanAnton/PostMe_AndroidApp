@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/WritePost"
+            android:title="Write Post" />
+
+        <item
+            android:id="@+id/UserPostList"
+            android:title="User Post"/>
+
+        <item
+            android:id="@+id/AllUser"
+            android:title="All Users"/>
+
+        <item
+            android:id="@+id/FollowerUser"
+            android:title="Follower"/>
+
+        <item
+            android:id="@+id/FollowingUser"
+            android:title="Following"/>
+        <item
+            android:id="@+id/Exit"
+            android:title="Exit"/>
+    </group>
+
+
+</menu>
